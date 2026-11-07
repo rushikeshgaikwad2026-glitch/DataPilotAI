@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="title description">
+  <title id="title">DataPilot AI — Business intelligence, made clear</title>
+  <desc id="description">A business intelligence dashboard illustration with KPI cards, a sales trend line, and regional comparison bars.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111b36"/>
+      <stop offset="0.58" stop-color="#243b7a"/>
+      <stop offset="1" stop-color="#6675e8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c8bff"/>
+      <stop offset="1" stop-color="#8ae6ce"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#081127" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="430" rx="28" fill="url(#background)"/>
+  <circle cx="1330" cy="50" r="220" fill="#ffffff" opacity=".045"/>
+  <circle cx="1170" cy="430" r="250" fill="#91a3f4" opacity=".08"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="68" y="67" width="46" height="46" rx="14" fill="url(#accent)"/>
+    <path d="M80 99V80h6v19zm10 0V73h6v26zm10 0V85h6v14z" fill="#14213d"/>
+    <text x="128" y="88" fill="#fff" font-size="21" font-weight="750">DATAPILOT AI</text>
+    <text x="68" y="183" fill="#fff" font-size="45" font-weight="760" letter-spacing="-1.5">Business intelligence,</text>
+    <text x="68" y="238" fill="#cbd5ff" font-size="45" font-weight="760" letter-spacing="-1.5">made clear.</text>
+    <text x="70" y="286" fill="#e1e7ff" font-size="17">Understand performance. Explore patterns. Share the complete dashboard.</text>
+    <rect x="68" y="326" width="170" height="36" rx="18" fill="#ffffff" opacity=".14"/>
+    <text x="87" y="349" fill="#fff" font-size="12" font-weight="650">PROFILE YOUR DATA</text>
+    <rect x="250" y="326" width="176" height="36" rx="18" fill="#ffffff" opacity=".14"/>
+    <text x="270" y="349" fill="#fff" font-size="12" font-weight="650">EXPLORE BUSINESS KPIs</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="730" y="50" width="652" height="330" rx="20" fill="#fff"/>
+    <rect x="730" y="50" width="652" height="44" rx="20" fill="#f7f8fc"/>
+    <path d="M730 74v20h652V74" fill="#f7f8fc"/>
+    <circle cx="756" cy="72" r="5" fill="#f87171"/>
+    <circle cx="774" cy="72" r="5" fill="#fbbf24"/>
+    <circle cx="792" cy="72" r="5" fill="#34d399"/>
+    <text x="821" y="77" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="650">BUSINESS PERFORMANCE DASHBOARD</text>
+    <text x="760" y="127" fill="#111b36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="750">Sales &amp; Retail</text>
+    <text x="760" y="146" fill="#7b88a3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Synthetic sample · 112 records · 5 fields</text>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <rect x="760" y="164" width="180" height="64" rx="11" fill="#f8f9fd" stroke="#e8ecf4"/>
+      <rect x="954" y="164" width="180" height="64" rx="11" fill="#f8f9fd" stroke="#e8ecf4"/>
+      <rect x="1148" y="164" width="202" height="64" rx="11" fill="#f8f9fd" stroke="#e8ecf4"/>
+      <text x="776" y="185" fill="#75819a" font-size="9" font-weight="700">TOTAL REVENUE</text>
+      <text x="776" y="211" fill="#17213b" font-size="20" font-weight="760">37,297</text>
+      <text x="970" y="185" fill="#75819a" font-size="9" font-weight="700">AVERAGE REVENUE</text>
+      <text x="970" y="211" fill="#17213b" font-size="20" font-weight="760">333.01</text>
+      <text x="1164" y="185" fill="#75819a" font-size="9" font-weight="700">DATA COMPLETENESS</text>
+      <text x="1164" y="211" fill="#17213b" font-size="20" font-weight="760">100%</text>
+    </g>
+
+    <rect x="760" y="246" width="356" height="111" rx="12" fill="#fff" stroke="#e8ecf4"/>
+    <text x="778" y="268" fill="#17213b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">Revenue trend</text>
+    <text x="778" y="284" fill="#8290aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">Weekly total · illustrative sample</text>
+    <g stroke="#edf1f7" stroke-width="1">
+      <path d="M780 310h318M780 329h318M780 348h318"/>
+    </g>
+    <path d="M785 340 830 330 875 336 920 313 965 320 1010 294 1054 301 1092 278" fill="none" stroke="#435bc0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M785 340 830 330 875 336 920 313 965 320 1010 294 1054 301 1092 278V349H785Z" fill="#6675e8" opacity=".10"/>
+    <g fill="#435bc0">
+      <circle cx="785" cy="340" r="3.5"/><circle cx="830" cy="330" r="3.5"/><circle cx="875" cy="336" r="3.5"/><circle cx="920" cy="313" r="3.5"/>
+      <circle cx="965" cy="320" r="3.5"/><circle cx="1010" cy="294" r="3.5"/><circle cx="1054" cy="301" r="3.5"/><circle cx="1092" cy="278" r="3.5"/>
+    </g>
+
+    <rect x="1130" y="246" width="220" height="111" rx="12" fill="#fff" stroke="#e8ecf4"/>
+    <text x="1148" y="268" fill="#17213b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">Revenue by region</text>
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" fill="#65728b">
+      <text x="1148" y="291">North</text><text x="1148" y="310">West</text><text x="1148" y="329">South</text><text x="1148" y="348">East</text>
+    </g>
+    <g>
+      <rect x="1192" y="283" width="112" height="10" rx="5" fill="#b9c9fa"/>
+      <rect x="1192" y="302" width="119" height="10" rx="5" fill="#6675e8"/>
+      <rect x="1192" y="321" width="115" height="10" rx="5" fill="#91a3f4"/>
+      <rect x="1192" y="340" width="120" height="10" rx="5" fill="#344b9c"/>
+    </g>
+  </g>
+</svg>
